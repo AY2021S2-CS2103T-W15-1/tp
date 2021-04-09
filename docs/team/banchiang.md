@@ -55,4 +55,4 @@ Given below are my contributions to the project
 * **Community**:
     * Highlighted CI build macos-latest crashing in github (Issue [\#281](https://github.com/nus-cs2103-AY2021S2/forum/issues/281))
  
- 
+  
